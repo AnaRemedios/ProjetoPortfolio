@@ -3,6 +3,7 @@
 🌟 Portfólio de Maria 🌟
 
 Este repositório contém o código-fonte do portfólio pessoal de Maria, uma persona que representa uma programadora talentosa. 
+
 O site foi desenvolvido para apresentar seus serviços e trabalhos de forma organizada e atraente.
 
 📂 Estrutura do Projeto
