@@ -5,6 +5,8 @@
 Este repositório contém o código-fonte do portfólio pessoal de Maria, uma persona que representa uma programadora talentosa. 
 O site foi desenvolvido para apresentar seus serviços e trabalhos de forma organizada e atraente.
 
+Link: https://portfolioexemplificativo.netlify.app/
+
 📂 Estrutura do Projeto
 
 index.html - Estrutura HTML do site.
